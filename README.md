@@ -15,11 +15,11 @@ Blue Monday @PSO2 Ship 4
 
 ### script
 
-main.js: <https://rawgit.com/blue-monday/pso2/master/dist/scripts/main.js>
+main.js: <https://cdn.jsdelivr.net/gh/blue-monday/pso2/dist/scripts/main.js>
 
 ### style
 
-main.css: <https://rawgit.com/blue-monday/pso2/master/dist/styles/main.css>
+main.css: <https://cdn.jsdelivr.net/gh/blue-monday/pso2/dist/styles/main.css>
 
 ## バグとか
 
